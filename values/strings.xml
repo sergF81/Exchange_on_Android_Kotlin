@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ManyExchange</string>
+    <string name="buttonRub">RUB</string>
+    <string name="buttonDollar">USD</string>
+    <string name="buttonEuro">EURO</string>
+    <string name="textViewInfo">Выберите валюту, которую хотите обменять</string>
+    <string name="editTextInsertValue">0</string>
+    <string name="buttonOK">OK</string>
+    <string name="buttonRestart">Restart</string>
+    <string name="buttonLog">History</string>
+
+
+</resources>
